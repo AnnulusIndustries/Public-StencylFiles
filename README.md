@@ -6,6 +6,6 @@ Downloadable Stencyl exports for projects found here http://www.stencyl.com/user
 Some projects may require one or more extension available here http://www.stencyl.com/developers/market/. Information will be provided in the "Note.txt" file.
 
 
-Thank you,
 
+Thank you,
 Annulus Industries
